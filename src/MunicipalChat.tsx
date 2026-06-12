@@ -46,8 +46,8 @@ export const MunicipalChat: React.FC<MunicipalChatProps> = ({
         <div className="flex items-center gap-3 text-left">
           <div className="w-2.5 h-2.5 rounded-full bg-emerald-400 animate-pulse" />
           <div>
-            <h2 className="text-white font-bold text-sm sm:text-base tracking-wide">SATIC • Orientación Ciudadana AI</h2>
-            <p className="text-[11px] text-slate-300 font-light">Ventanilla Única de Consulta Automatizada - GAMLP</p>
+            <h2 className="text-white font-bold text-sm sm:text-base tracking-wide">ChatBot Orientación Ciudadana AI</h2>
+            <p className="text-[11px] text-slate-300 font-light">Ventanilla Única de Consulta Automatizada</p>
           </div>
         </div>
         <span className="text-[10px] bg-[#134074] text-sky-100 px-2.5 py-1 rounded-full font-semibold uppercase tracking-wider">
