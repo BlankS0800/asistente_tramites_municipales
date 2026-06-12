@@ -16,7 +16,7 @@ interface MunicipalChatProps {
 const INITIAL_MESSAGE: Message = {
   id: 'welcome',
   sender: 'bot',
-  text: 'Bienvenido a **SATIC (Plataforma Inteligencia de Trámites Ciudadanos)**.\n\nEste canal inteligente tiene la función de guiarlo de manera inmediata sobre requisitos, procedimientos oficiales, costos y flujos legales del municipio, utilizando los manuales vigentes del **Gobierno Autónomo Municipal de La Paz**.\n\n¿Qué trámite o licencia desea consultar hoy?'
+  text: 'Bienvenido al **ASISTENTE DE TRAMITES MUNICIPALES**.\n\nEste canal inteligente tiene la función de guiarlo de manera inmediata sobre requisitos, procedimientos oficiales, costos y flujos legales del municipio, utilizando los manuales vigentes del **Gobierno Autónomo Municipal de La Paz**.\n\n¿Qué trámite o licencia desea consultar hoy?'
 };
 
 export const MunicipalChat: React.FC<MunicipalChatProps> = ({ 
